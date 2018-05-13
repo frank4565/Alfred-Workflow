@@ -1,4 +1,4 @@
-Alfred 2 Workflow
+Alfred Workflow
 =================
 
 Here are the workflows I used.
@@ -17,4 +17,4 @@ User can also copy the converted number of CNY from the workflow by just press r
 ![image](https://raw.github.com/frank4565/Alfred-2-Workflow/master/screenshots/jpy.png)
 ![image](https://raw.github.com/frank4565/Alfred-2-Workflow/master/screenshots/twd.png)
 
-Modified from "[Currency Converter](http://www.alfredworkflow.com/#Currency%20Converter)" by @[Florian Pellet](http://florianpellet.com). 
+Modified from "[Currency Converter](http://www.alfredworkflow.com/#Currency%20Converter)" by @[Florian Pellet](http://florianpellet.com).
